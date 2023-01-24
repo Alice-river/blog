@@ -1,0 +1,2 @@
+# blog
+Djangoの練習
